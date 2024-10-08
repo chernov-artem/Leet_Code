@@ -61,4 +61,4 @@ arr = [3,1,4,2]
 # Solution.sum_array(arr, arr)
 # Solution.minSubarray(Solution, arr, 6)
 Solution.find_rem_of_dev(Solution, arr, 5)
-#1234
+#12345
